@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "test1",
+      "email": "test@test.com",
+      "phone": "121212121",
+      "dob": "12/12/2002",
+      "id": 5
+    },
+    {
+      "name": "SHikha",
+      "email": "sp@gmail.com",
+      "phone": "123456678",
+      "dob": "12/1/1994",
+      "id": 6
+    },
+    {
+      "name": "shweta pandey",
+      "email": "set@gmail.comn",
+      "phone": "1478529633",
+      "dob": "5/5/2022",
+      "id": 7
+    },
+    {
+      "name": "ShikhaP",
+      "email": "shikha290494@gmail.com",
+      "phone": "883096",
+      "dob": "7/7/2007",
+      "id": 8
+    },
+    {
+      "name": "Chanda Pandey",
+      "email": "chanda@gmail.com",
+      "phone": "123456789",
+      "dob": "17/03/1961",
+      "id": 9
+    }
+  ]
+}
